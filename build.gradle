@@ -32,6 +32,7 @@ dependencies {
     modImplementation("com.gitlab.aglarcz.cobblemon:fabric:c1ce5491")
 
     modCompileOnly files('libs/cobblemonresearchtasks-1.0.jar')
+    modImplementation "net.fabricmc:fabric-language-kotlin:1.12.3+kotlin.2.0.21"
 }
 
 processResources {

@@ -4,7 +4,7 @@
   "package": "cz.pokeland.researchfixes.mixin",
   "compatibilityLevel": "JAVA_21",
   "mixins": [
-    "PokemonExperienceMixin"
+    "CobblemonMasteryEventHandlerMixin"
   ],
   "client": [
   ],
